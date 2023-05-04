@@ -1,0 +1,84 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/level0.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/bird.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/level0.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 163.33333333333331,
+                "y": 277.33333333333326
+            }
+        },
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/level1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 726.6666666666666,
+                "y": 356
+            }
+        },
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/npc.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/parcel.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/tape.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 45
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data",
+    "last.imagePath": "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/images",
+    "map.height": 220,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 4,
+    "map.tileWidth": 4,
+    "map.width": 200,
+    "openFiles": [
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/tiles.tsx",
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/bird.tsx",
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/level0.tmx",
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/npc.tsx",
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/parcel.tsx",
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/tape.tsx"
+    ],
+    "project": "LD53.tiled-project",
+    "recentFiles": [
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/tiles.tsx",
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/bird.tsx",
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/tape.tsx",
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/parcel.tsx",
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/npc.tsx",
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/level0.tmx",
+        "C:/Users/Dan Lin/Dropbox/prototypes/ludum_dare53/LD53/assets/data/level1.tmx",
+        "tiles.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
